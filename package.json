@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.4"
+  },
+  "name": "CRM",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT"
+}
